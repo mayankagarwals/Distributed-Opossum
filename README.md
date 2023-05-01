@@ -2,7 +2,7 @@
 
 Distributed Opossum is an efficient production-ready library for implementing distributed circuit breakers in a microservices architecture. It provides a way to protect against cascading failures that can occur when one service fails and causes multiple other services to fail as a result.
 
-This project builds on top of the amazing work Red hat and team (refer https://github.com/nodeshift/opossum) but it diverges in it's targeted usage patterns. 
+This project builds on top of the amazing work by Red hat and team (refer https://github.com/nodeshift/opossum) but it diverges in it's targeted usage patterns. 
 Distributed Opossum enhances the power of the project multifold by introducing some constraints explaiend further below. 
 
 
